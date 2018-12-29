@@ -1,0 +1,85 @@
+#titulo-seccion
+{
+    position: relative;
+    float: right;
+    color: #F1C40F;
+    right: 270px;
+    top: -190px;
+}
+#promedio
+{
+    position: relative;
+    float: right;
+    right: -100px;
+    top: -130px;
+}
+#movercedula
+{
+    position: relative;
+    left: 10px;
+    margin: 5px;
+}
+#movernombre
+{
+    position: relative;
+    left: 3px;
+    margin: 5px;
+}
+#movernota
+{
+    position: relative;
+    left: 25px;
+    margin: 5px;
+}
+button
+{
+    padding: 10px;
+    background: #3498DB; 
+    border: none;
+    border-radius: 5px; 
+}
+form {margin: 15px;}
+table
+{
+  border: groove;
+  text-align: center;
+  position: relative;
+  top: 10px;
+  border-radius: 7px;
+  width: 550px;
+}
+th
+{
+	border-radius: 5px;
+	font-size: 20px;
+    text-align: center;
+    background: #F4D03F;
+}
+td
+{
+	text-align: center;
+	background: #85C1E9;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#campoCedula
+{
+    position: relative;
+    left: 15px;
+    color: red;
+    font-size: 20px
+}
+#campoNombre
+{
+    position: relative;
+    left: 4px;
+    color: red;
+    font-size: 20px
+}
+#campoNota
+{
+    position: relative;
+    left: 26px;
+    color: red;
+    font-size: 20px
+}
